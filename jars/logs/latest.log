@@ -1,0 +1,35 @@
+[18:12:17] [Client thread/INFO]: Setting user: Player203
+[18:12:19] [Client thread/WARN]: Skipping bad option: lastServer:
+[18:12:19] [Client thread/INFO]: LWJGL Version: 2.9.4
+[18:12:19] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:12:19] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:12:20] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[18:12:20] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:12:20] [Thread-3/INFO]: OpenAL initialized.
+[18:12:20] [Sound Library Loader/INFO]: Sound engine started
+[18:12:21] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[18:12:23] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[18:12:24] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:12:26] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[18:12:26] [Server thread/INFO]: Generating keypair
+[18:12:26] [Server thread/INFO]: Loaded 488 advancements
+[18:12:26] [Server thread/INFO]: Preparing start region for level 0
+[18:12:27] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:12:28] [Server thread/INFO]: Player203[local:E:ec04d152] logged in with entity id 162 at (442.94350700401424, 72.0, 365.4583014594746)
+[18:12:28] [Server thread/INFO]: Player203 joined the game
+[18:12:33] [Server thread/INFO]: Saving and pausing game...
+[18:12:33] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:12:33] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:12:33] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:12:37] [Client thread/INFO]: Stopping!
+[18:12:37] [Client thread/INFO]: SoundSystem shutting down...
+[18:12:37] [Server thread/INFO]: Stopping server
+[18:12:37] [Server thread/INFO]: Saving players
+[18:12:37] [Server thread/INFO]: Player203 lost connection: Server closed
+[18:12:37] [Server thread/INFO]: Player203 left the game
+[18:12:37] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:12:37] [Server thread/INFO]: Saving worlds
+[18:12:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/overworld
+[18:12:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_nether
+[18:12:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/the_end
+[18:12:37] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
